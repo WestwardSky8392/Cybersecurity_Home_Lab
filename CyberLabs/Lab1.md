@@ -1,1 +1,0 @@
-<iframe src="CyberLabs/image/Lab1.pdf" width="100%" height="600px"></iframe>
